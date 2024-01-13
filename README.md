@@ -98,8 +98,8 @@ hobbies: ["Tour", "Cinema", "Eating Food"]
 </p>
 
 
-<p>
-<picture>
+<p align="center">
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=hoquescript&show_icons=true&hide=issues&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -109,7 +109,7 @@ hobbies: ["Tour", "Cinema", "Eating Food"]
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hoquescript&show_icons=true" />
-</picture>
+</picture> -->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hoquescript&hide=asp&langs_count=6&layout=compact&theme=dark"
