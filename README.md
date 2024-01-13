@@ -50,18 +50,20 @@ fields_of_interests:
     "DevOps",
     "Machine Learning",
   ]
-technical_background:
+expertised_at:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Mobile Responsive Application"
+    "Test Driven Development",
+    "Progressive Web Application Development",
+    "SEO-Friendly Application",
+    "Website Performance Analysis & Resolution",
+    "Chrome Extension Development",
+    "Web Scraping",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Fronend System Design, Accessibility, and Web Security"]
+2024 Goals: ["Data Visualization", "Algorithm", "Data Structure", "Nest.js", "WebRTC"]
+hobbies: ["Tour", "Cinema", "Eating Food"]
 ```
   
 ---  
