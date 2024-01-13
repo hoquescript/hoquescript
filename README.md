@@ -58,7 +58,9 @@ expertised_at:
     framework: "React.js, Next.js, Gatsby.js, Node.js",
     testing: "Jest, React Testing Library, Cypress.io",
     tools: "Git, Chrome Devtool, Storybook, Jira",
-    libraries: "Apollo Graphql, Redux, React Query, React Table, React DND, Recharts, Tiptap Editor, React Hook Form, Zod, SVG, AWS Amplify"
+    ui_library: "Material UI, Ant Design, Tailwind CSS"
+    libraries: "Apollo Graphql, Redux, React Query, React Table, React DND, Recharts,
+                Tiptap Editor, React Hook Form, Zod, SVG, AWS Amplify"
   }
   
 currently_learning: ["Fronend System Design, Accessibility, and Web Security"]
