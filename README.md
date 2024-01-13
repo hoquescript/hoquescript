@@ -103,18 +103,18 @@ hobbies: ["Tour", "Cinema", "Eating Food"]
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hoquescript&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=hoquescript&show_icons=true&hide=issues"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hoquescript&show_icons=true" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hoquescript&layout=donut&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hoquescript&hide=asp&langs_count=6&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hoquescript&layout=donut"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hoquescript&hide=asp&langs_count=6&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hoquescript&show_icons=true" />
