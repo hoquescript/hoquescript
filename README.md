@@ -23,7 +23,7 @@
   <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2179/48/4-Facebook-256.png"/>
 </a>
 <a href="https://medium.com/@mohaiminul">
-  <img height="50" src="https://cdn1.iconfinder.com/data/icons/pinpoint-social/48/medium-256.png"/>
+  <img height="50" src="https://www.shareicon.net/data/512x512/2015/10/02/110808_blog_512x512.png"/>
 </a>
 <a href="https://dev.to/mohaiminul">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
