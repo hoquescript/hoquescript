@@ -7,23 +7,26 @@
 </h1>
 
 <p align="center">
-<a href="">
+<!-- <a href="">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/mohaiminul-hoque/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="mailto:mohaiminulhoquee@gmail.com">
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/free-simple-line-mix/48/5-Email-256.png"/>
+</a>
+<a href="https://api.whatsapp.com/send?phone=8801798323483">
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2304/64/09-WhatsApp-256.png"/>
+</a>
+<a href="https://www.facebook.com/WahidHoquee/">
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2179/48/4-Facebook-256.png"/>
 </a>
 <a href="https://medium.com/@mohaiminul">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
 <a href="https://dev.to/mohaiminul">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
-<a href="">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.facebook.com/WahidHoquee/">
-  <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2179/48/4-Facebook-256.png"/>
 </a>
 </p>
 
