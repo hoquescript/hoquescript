@@ -97,9 +97,11 @@ hobbies: ["Tour", "Cinema", "Eating Food"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
+
+<p>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hoquescript&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=hoquescript&show_icons=true&hide=issues&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -119,6 +121,7 @@ hobbies: ["Tour", "Cinema", "Eating Food"]
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hoquescript&show_icons=true" />
 </picture>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
