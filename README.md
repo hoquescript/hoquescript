@@ -44,22 +44,22 @@ company: Blending101
 
 fields_of_interests:
   [
-    "Frontend Development",
-    "Backend Development",
-    "Blockchain Development"
-    "DevOps",
-    "Machine Learning",
-  ]
-expertised_at:
-  [
     "Mobile Responsive Application"
     "Test Driven Development",
     "Progressive Web Application Development",
     "SEO-Friendly Application",
     "Website Performance Analysis & Resolution",
     "Chrome Extension Development",
-    "Web Scraping",
+    "Web Scraping"
   ]
+expertised_at:
+  {
+    language: "Javascript, Typescript",
+    framework: "React.js, Next.js, Gatsby.js, Node.js",
+    testing: "Jest, React Testing Library, Cypress.io",
+    tools: "Git, Chrome Devtool, Storybook, Jira",
+    libraries: "Apollo Graphql, Redux, React Query, React Table, React DND, Recharts, Tiptap Editor, React Hook Form, Zod, SVG, AWS Amplify"
+  }
   
 currently_learning: ["Fronend System Design, Accessibility, and Web Security"]
 2024 Goals: ["Data Visualization", "Algorithm", "Data Structure", "Nest.js", "WebRTC"]
